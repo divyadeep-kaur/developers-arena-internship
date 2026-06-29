@@ -1,0 +1,5 @@
+# since we are not using any library function in this project
+#we shall conclude we use standerd input functions for string and integer values
+#for string value is recieved in double or single quotes through input()
+#for integer value we use int(input()) function
+#for executing we assign print() function

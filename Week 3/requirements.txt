@@ -1,0 +1,19 @@
+# ============================================
+# Sales Data Analysis Project
+# ============================================
+# Author: Divya
+# Description:
+# Dependencies required for running the
+# Sales Data Analysis project.
+#
+# Install using:
+# pip install -r requirements.txt
+# ============================================
+
+# Data manipulation and analysis
+pandas>=2.0.0,<3.0.0
+
+# Future libraries (uncomment if needed)
+# numpy>=1.26.0
+# matplotlib>=3.8.0
+# openpyxl>=3.1.0
